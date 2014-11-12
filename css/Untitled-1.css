@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#div1 {text-shadow:5px 5px 5px #000000;}
+#cabeza {background:-webkit-gradient(linear, 72% 100%, 10% 21%, from(#CBB676), to(#FF4E28))}
+#tx {background:-webkit-gradient(linear, 72% 100%, 10% 21%, from(#A9FDFF), to(#FF4E28))}
